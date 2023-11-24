@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Azamat"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-04 10:55:38 PM"/>
+        <attribute name="created" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA0OzEwOjMxOjU4IFBNOzI5NzU="/>
+        <attribute name="edited" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA0OzEwOjU1OjM4IFBNOzE7MzA4Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, s, P" type="Integer" array="False" size=""/>
+            <output expression="&quot;Tog'ri tortburchakning birinchi tomoni kiriting a =&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Tog'ri tortburchakning ikkinchi tomonini kiriting b =&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="s" expression="a*b"/>
+            <assign variable="P" expression="2*(a+b)"/>
+            <output expression="&quot;Yuzasi s=&quot; &amp; s" newline="True"/>
+            <output expression="&quot;Perimert P =&quot; &amp; p" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

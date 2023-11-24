@@ -1,0 +1,91 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+</style>
+*{
+margin: 0; 
+padding: 0; 
+font-family: 'Inter', sans-serif;
+text-decoration: none;
+list-style: none;
+}
+
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+header{
+    height: 100vh;
+    background-color: rgba(38, 90, 106, 1)
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    gap: 20px;
+}
+
+nav a{
+    color: rgb(204, 242, 255);
+}
+
+nav img{
+    height: 30px;
+}
+
+nav button{
+    padding: 10px 18px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(60, 151, 179);
+}
+
+.header-head{
+    display: flex;
+    align-items: center;
+}
+
+.header-right img{
+    width: 400px;
+}
+
+.header-left{
+    color: white;
+}
+
+.header-title{
+padding: 30px;
+font-size: 56px;
+width: 500px;
+}
+
+.header-text{
+    font-size: 18px;
+    color: rgba(132, 148, 153, 1);
+    width: 545px;
+}
+
+.header-btns{
+padding-top: 20;
+}
+
+.header-btns button{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+    
+}
+
+.header-btns button{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+}
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Azamat"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-04 11:13:24 PM"/>
+        <attribute name="created" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA0OzEwOjU2OjQ1IFBNOzI5Nzg="/>
+        <attribute name="edited" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA0OzExOjEzOjI0IFBNOzE7MzA3Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, P" type="Integer" array="False" size=""/>
+            <output expression="&quot;Uchburchakning birinchi tomonini kiriting a=&quot;" newline="True"/>
+            <input variable="a"/>
+            <assign variable="a" expression="4*a"/>
+            <output expression="&quot;Yuzasi = a&quot; &amp; a" newline="True"/>
+            <output expression="&quot;Perimetri = p&quot; &amp; p" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

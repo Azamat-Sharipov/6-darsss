@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Azamat"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-05 01:54:05 AM"/>
+        <attribute name="created" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA0OzExOjE1OjIzIFBNOzI5NzA="/>
+        <attribute name="edited" value="QXphbWF0O0RFU0tUT1AtM1NFVVFHRzsyMDIzLTExLTA1OzAxOjU0OjA1IEFNOzEyOzMxMTY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, S" type="Integer" array="False" size=""/>
+            <output expression="&quot;Menga kavadrat tomonini kiriting a =&quot;" newline="True"/>
+            <input variable="a"/>
+            <assign variable="S" expression="a*a"/>
+            <output expression="&quot;Yuzasi S=&quot; &amp; S" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
