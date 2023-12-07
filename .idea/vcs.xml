@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backend/2-dars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backend/3-dars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backend/takrorlash-1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Foundaction/12-lesson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Foundaction/12-lesson2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Foundaction/5_lesson" vcs="Git" />
